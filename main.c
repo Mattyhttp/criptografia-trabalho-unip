@@ -27,7 +27,7 @@ simples implementados em linguagem C.
   - Material educativo e ajuda ao usuario
 
   Finalidade: Projeto academico - UNIP
-  Versao: 1.0
+  Versao: 1.1
 
 
   ==============================================================================
